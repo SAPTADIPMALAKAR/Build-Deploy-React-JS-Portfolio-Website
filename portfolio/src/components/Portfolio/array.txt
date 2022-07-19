@@ -1,0 +1,44 @@
+const data = [
+    {
+        id: 1,
+        image: IMG1,
+        title: 'Crypto Currency Dashboard & Financial Visualisation',
+        github: 'https://github.com',
+        demo: 'https://live.demo.link.com/demo-1'
+    },
+    {
+        id: 2,
+        image: IMG2,
+        title: 'Charts templates & infographics in Figma',
+        github: 'https://github.com',
+        demo: 'https://live.demo.link.com/demo-1'
+    },
+    {
+        id: 3,
+        image: IMG3,
+        title: 'Crypto Currency Dashboard & Financial Visualisation',
+        github: 'https://github.com',
+        demo: 'https://live.demo.link.com/demo-1'
+    },
+    {
+        id: 4,
+        image: IMG4,
+        title: 'Maintaining Tasks and tracking progress',
+        github: 'https://github.com',
+        demo: 'https://live.demo.link.com/demo-1'
+    },
+    {
+        id: 5,
+        image: IMG5,
+        title: 'Charts templates & inforgraphics in Figma',
+        github: 'https://github.com',
+        demo: 'https://live.demo.link.com/demo-1'
+    },
+    {
+        id: 6,
+        image: IMG6,
+        title: 'Crypto Currency Dashboard & Financial Visualisation',
+        github: 'https://github.com',
+        demo: 'https://live.demo.link.com/demo-1'
+    },
+]

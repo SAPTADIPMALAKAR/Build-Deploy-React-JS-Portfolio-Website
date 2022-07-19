@@ -1,0 +1,22 @@
+#video {
+    position: fixed;
+    z-index: -1;
+    width: 100% !important;
+    /* height: 100vh !important; */
+    background-size: cover;
+    filter: blur(2px);
+}
+
+/* ======== MEDIA QUERY (MEDIUM DEVICES) ======= */
+@media screen and (max-width: 1024px) {
+    #video {
+        display: none;
+    }
+}
+
+/* ======== MEDIA QUERY (SMALL DEVICES) ======= */
+@media screen and (max-width: 600px) {
+    #video {
+        display: none;
+    }
+}
